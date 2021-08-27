@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ac05dfa9-3477-43c5-83bb-61c5e09eb0fd" name="Changes" comment="Complete 2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Pelaez/Alejandro/ex1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +64,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="ex1" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.ex1" />
+    <configuration name="ex06" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pelaez.Alejandro.ex06" />
       <module name="Pelaez-COP3330-ex01" />
       <extension name="coverage">
         <pattern>
